@@ -2,14 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "api/diagnostico.py",
+      "src": "d3.py",       
       "use": "@vercel/python"
     }
   ],
   "routes": [
     {
-      "src": "/",
-      "dest": "/api/diagnostico.py"
+      "src": "/(.*)",
+      "dest": "/d3.py"
     }
   ]
 }
