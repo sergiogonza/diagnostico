@@ -1,5 +1,6 @@
 streamlit
-pandas
-numpy
-requests
 matplotlib
+reportlab
+numpy
+mpl_toolkits
+smtplib
