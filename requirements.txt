@@ -1,4 +1,6 @@
-matplotlib==3.7.1
+python-3.9.12
+matplotlib==3.4.3
 streamlit==1.20.0
 reportlab==3.5.68
 numpy==1.23.5
+mpl_toolkits==0.0.0
