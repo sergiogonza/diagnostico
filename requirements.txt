@@ -1,5 +1,5 @@
-smtplib
 streamlit
-matplotlib
-reportlab
+pandas
 numpy
+requests
+matplotlib
