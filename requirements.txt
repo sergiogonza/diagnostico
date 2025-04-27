@@ -1,6 +1,4 @@
-streamlit
-matplotlib
-reportlab
-numpy
-mpl_toolkits
-smtplib
+matplotlib==3.7.1
+streamlit==1.20.0
+reportlab==3.5.68
+numpy==1.23.5
