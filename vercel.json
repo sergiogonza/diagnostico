@@ -1,15 +1,8 @@
 {
-  "version": 2,
   "builds": [
     {
-      "src": "d3.py",       
+      "src": "d3.py",
       "use": "@vercel/python"
-    }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/d3.py"
     }
   ]
 }
